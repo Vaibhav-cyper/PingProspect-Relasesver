@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/0c21409e-6f5d-4253-823a-01ce84b740a9
 
 - Effortless One-Click Data Imports
 - Personalized Messaging Made Effortless
-- Bulk Messaging for Greater Reach
+- Automated Messaging for Greater Reach
 - Human-Like Interaction to Avoid Spam Filters
 - Robust Error Handling and Recovery
 
